@@ -1,4 +1,4 @@
-package utills;
+package com.bostongene.userservice.utills;
 
 import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.core.JsonProcessingException;

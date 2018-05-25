@@ -2,8 +2,8 @@ package com.bostongene.userservice.entity;
 
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
-import utills.LocalDateDeserializer;
-import utills.LocalDateSerializer;
+import com.bostongene.userservice.utills.LocalDateDeserializer;
+import com.bostongene.userservice.utills.LocalDateSerializer;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
